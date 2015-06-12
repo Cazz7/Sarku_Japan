@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Sarku Japan</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- texto de la seccion home -->
+    <string name="About_us">Acerca de nosotros</string>
+    <string name="introducing">Sarku Japan es el restaurante de comida rápida japonesa más grande de Estados Unidos con más de 250 puntos en ese País.
+
+    Nuestra especialidad es la preparación de platos Teriyaki, con productos frescos a la plancha, acompañados con la exclusiva salsa Teriyaki, ofreciendo una alternativa saludable y deliciosa, en medio de un show divertido de preparación de los platos en frente del cliente.</string>
+
+    <!-- texto de la seccion bebidas -->
+    <string name="beverages">Bebidas</string>
+    <string name="coconut_lemonade">Limonada de coco</string>
+    <string name="simple_lemonade">Limonada natural</string>
+    <string name="green_lemonade">Limonada de yerbabuena</string>
+
+    <!-- texto de la seccion de platos -->
+    <string name="plates">Platos</string>
+    <string name="chicken">Pollo Teriyaki</string>
+    <string name="salade">Ensaladas</string>
+    <string name="bento">Bentos</string>
+    <string name="niguri">Niguri</string>
+    <string name="rice">Arroz Japonés</string>
+    <string name="sushi">Varidad de Sushi</string>
+
+<!-- texto de la seccion de menú ubicacion -->
+    <string name="location">Sedes y ubicación</string>
+    <string name="hint_nombre">Escriba la sucursal</string>
+    <string name="hint_search">Escriba la sucursal a buscar</string>
+    <string name="hint_latitud">Latitud</string>
+    <string name="hint_longitud">Longitud</string>
+    <string name="id">id</string>
+    <string name="nameLocation">Nombre de la sede</string>
+    <string name="LatNum">Latitud</string>
+    <string name="LongNum">Longitud</string>
+    <string name="search_result">Resultado de la Búsqueda</string>
+
+    <!-- menu -->
+    <string name="mlocation">Editar sedes</string>
+    <string name="mMap">Ver mapa</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_ensayis">ensayisActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
